@@ -2,7 +2,7 @@
 """
 测试 VLM 检测集成
 
-此代码是用于代替 perception_ros_wrapper 方案中原有的 YOLO 检测部分，目的三达到 VLM 去识别出“叉”进行bbox生成
+此代码是用于代替 perception_ros_wrapper 方案中原有的 YOLO 检测部分，目的是达到 VLM 去识别出“叉”进行bbox生成
 
 Usage:
     # 1. 测试 VLM 检测器（独立运行）
